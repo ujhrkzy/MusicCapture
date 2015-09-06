@@ -3,6 +3,8 @@
 
     <string name="app_name">MusicCapture</string>
     <string name="hello_world">Hello world!</string>
+    <string name="caputure">Caputure</string>
+    <string name="history">History</string>
     <string name="action_settings">Settings</string>
 
 </resources>
